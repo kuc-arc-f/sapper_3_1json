@@ -6,7 +6,7 @@
 
  date    : 2021/05/29
 
- update  : 2021/05/30
+ update  : 2021/05/30 
 
 ***
 ### Summary
@@ -40,6 +40,20 @@ yarn export
 ### sample URL
 
 https://cms-kuc-sapper2.netlify.app/
+
+***
+### json file edit URL
+
+* jsonファイルを編集する機能：
+
+https://kuc-arc-f.github.io/react-idx-6edit2/
+
+
+***
+### json file edit code
+
+https://github.com/kuc-arc-f/react_idx_6edit2
+
 
 ***
 ### Blog:
