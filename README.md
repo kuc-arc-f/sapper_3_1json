@@ -58,9 +58,9 @@ https://github.com/kuc-arc-f/react_idx_6edit2
 ***
 ### Blog:
 
-* svelte + sapperで、SSG 静的サイトの出力と netlifyデプロイ
+* sapper + svelte SSG開発入門
 
-https://zenn.dev/knaka0209/articles/a91a1ee75aa120
+https://zenn.dev/knaka0209/books/086eb9e843b534
 
 ***
 
